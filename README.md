@@ -39,8 +39,8 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 
     Tarayıcınızda http://localhost/index.asp adresine giderek koordinat girmeye başlayabilirsiniz.
 
-💾 Veritabanı Şeması (Noktalar Tablosu)
-|![Veritabanı Tablosu](resim5.png)|
+## 💾 Veritabanı Şeması (Noktalar Tablosu)
+![Veritabanı Tablosu](resim5.png)
 
 ## 📸 Ekran Görüntüleri Kullanım Senaryosu
 
@@ -52,7 +52,8 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 ![Boş Çizim](resim3.png)
 
 **4. Boş Veritabanı Olduğunda Grafik**
-|![Grafik Çizimi](resim4.png)|
+![Grafik Çizimi](resim4.png)
+
 
 
 
