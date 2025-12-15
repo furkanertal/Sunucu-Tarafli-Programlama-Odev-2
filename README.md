@@ -14,7 +14,6 @@ Bu proje, **Classic ASP (Active Server Pages)** ve **Microsoft Access** veritaba
 
 * **Backend:** Classic ASP (VBScript)
 * **Veritabanı:** Microsoft Access (.mdb)
-* **Veri Erişim:** ADODB (Jet OLEDB 4.0 / ACE OLEDB 12.0)
 * **Frontend:** HTML5, CSS3
 * **Grafik Motoru:** SVG (Scalable Vector Graphics)
 
@@ -53,12 +52,13 @@ Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
 | :---: | :---: |
 | ![Ana Sayfa](resim1.png) | ![Veri Girişi](resim2.png) |
 
-**3. Veritabanı Temizlenmeden Önceki Onay Sorusu** |
+**3. Veritabanı Temizlenmeden Önceki Onay Sorusu** 
 ![Boş Çizim](resim3.png) |
 
-| **4. Boş Veritabanı Olduğunda Grafik ** |
+**4. Boş Veritabanı Olduğunda Grafik **
 | :---: |
 | ![Grafik Çizimi](resim4.png) |
+
 
 
 
