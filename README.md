@@ -1,4 +1,4 @@
-# 📈 ASP ile Dinamik Koordinat ve Grafik Çizim Sistemi
+<img width="1332" height="891" alt="image" src="https://github.com/user-attachments/assets/892dc230-adc5-47c4-a339-b63e88bb0476" /># 📈 ASP ile Dinamik Koordinat ve Grafik Çizim Sistemi
 
 Bu proje, **Classic ASP (Active Server Pages)** ve **Microsoft Access** veritabanı kullanılarak geliştirilmiş bir grafik çizim uygulamasıdır. Kullanıcıdan alınan 2D koordinat verilerini (X, Y) veritabanına kaydeder ve bu verileri işleyerek HTML5 **SVG (Scalable Vector Graphics)** teknolojisi ile dinamik olarak ekrana çizer.
 
@@ -32,7 +32,7 @@ Proje_Klasoru/
 ├── temizle.asp           <-- (Veritabanını sıfırlayan kod)
 └── README.md             <-- (Proje dökümantasyonu)
 ```
-⚙️ Kurulum ve Çalıştırma
+##⚙️ Kurulum ve Çalıştırma
 
 Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru ayarlanması gerekmektedir.
 
@@ -46,4 +46,19 @@ ID            	Otomatik Sayı	    Primary Key
 SiraNo	        Sayı	            Noktaların birleştirilme sırası
 X	            Sayı	            Yatay düzlemdeki konum (0-800 arası)
 Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
+
+##📸 Ekran Görüntüleri Kullanım Senaryosu
+
+| **1. Ana Sayfa (Giriş)** | **2. Koordinat Verisi Eklendikten sonra Grafik** |
+| :---: | :---: |
+| ![Ana Sayfa](resim1.png) | ![Veri Girişi](resim2.png) |
+
+**3. Veritabanı Temizlenmeden Önceki Onay Sorusu** |
+![Boş Çizim](resim3.png) |
+
+| **4. Boş Veritabanı Olduğunda Grafik ** |
+| :---: |
+| ![Grafik Çizimi](resim4.png) |
+
+
 
