@@ -65,7 +65,7 @@ Proje\_Klasoru/
 ├── temizle.asp           <-- (Veritabanını sıfırlayan kod)
 
 └── README.md             <-- (Proje dökümantasyonu)
-
+```
 
 ## ⚙️ Kurulum ve Çalıştırma 
 
@@ -75,7 +75,7 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 
     **Çalıştırma:**
 
-        Sunucuyu başlattıktan sonra tarayıcınızda http://localhost/index.asp adresine gidin.
+     Sunucuyu başlattıktan sonra tarayıcınızda http://localhost/index.asp adresine gidin.
 
 1. Veri Giriş Ekranı
 
@@ -84,4 +84,5 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 2. Dinamik Çizim Sonucu
 
 ![Çizim Ekranı](ekran2.png))
+
 
