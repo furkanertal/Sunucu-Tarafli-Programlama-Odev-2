@@ -53,11 +53,12 @@ Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
 | ![Ana Sayfa](resim1.png) | ![Veri Girişi](resim2.png) |
 
 **3. Veritabanı Temizlenmeden Önceki Onay Sorusu** 
-![Boş Çizim](resim3.png) |
+![Boş Çizim](resim3.png)
 
 **4. Boş Veritabanı Olduğunda Grafik **
 | :---: |
 | ![Grafik Çizimi](resim4.png) |
+
 
 
 
