@@ -31,7 +31,7 @@ Proje_Klasoru/
 ├── temizle.asp           <-- (Veritabanını sıfırlayan kod)
 └── README.md             <-- (Proje dökümantasyonu)
 ```
-##⚙️ Kurulum ve Çalıştırma
+## ⚙️ Kurulum ve Çalıştırma
 
 Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru ayarlanması gerekmektedir.
 
@@ -46,7 +46,7 @@ SiraNo	        Sayı	            Noktaların birleştirilme sırası
 X	            Sayı	            Yatay düzlemdeki konum (0-800 arası)
 Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
 
-##📸 Ekran Görüntüleri Kullanım Senaryosu
+## 📸 Ekran Görüntüleri Kullanım Senaryosu
 
 | **1. Ana Sayfa (Giriş)** | **2. Koordinat Verisi Eklendikten sonra Grafik** |
 | :---: | :---: |
@@ -55,9 +55,9 @@ Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
 **3. Veritabanı Temizlenmeden Önceki Onay Sorusu** 
 ![Boş Çizim](resim3.png)
 
-**4. Boş Veritabanı Olduğunda Grafik **
-| :---: |
+**4. Boş Veritabanı Olduğunda Grafik**
 | ![Grafik Çizimi](resim4.png) |
+
 
 
 
