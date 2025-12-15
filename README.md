@@ -38,21 +38,12 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 
     Sunucu: Baby Web Server veya IIS (Internet Information Services) üzerinde çalıştırılabilir.
 
-    İzin Ayarı (Önemli):
-
-        db klasörüne sağ tıklayın -> Özellikler -> Güvenlik.
-
-        Kullanıcılar listesinden (Everyone/Herkes veya Users) seçip Tam Denetim (Full Control) izni verin.
-
-        Bu izin verilmezse veritabanına kayıt yapılamaz.
-
-    Çalıştırma:
-
-        Tarayıcınızda http://localhost/index.asp adresine giderek koordinat girmeye başlayabilirsiniz.
+    Tarayıcınızda http://localhost/index.asp adresine giderek koordinat girmeye başlayabilirsiniz.
 
 💾 Veritabanı Şeması (Noktalar Tablosu)
-Alan Adı	Veri Türü	Açıklama
-ID	Otomatik Sayı	Benzersiz kayıt numarası (Primary Key)
-SiraNo	Sayı	Noktaların birleştirilme sırası
-X	Sayı	Yatay düzlemdeki konum (0-800 arası)
-Y	Sayı	Dikey düzlemdeki konum (0-600 arası)
+Alan Adı	    Veri Türü	        Açıklama
+ID            	Otomatik Sayı	    Primary Key
+SiraNo	        Sayı	            Noktaların birleştirilme sırası
+X	            Sayı	            Yatay düzlemdeki konum (0-800 arası)
+Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
+
